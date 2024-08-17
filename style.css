@@ -1,0 +1,75 @@
+
+.bg-container {
+  background-color: #dac0ff;
+  height: 150vh;
+  padding: 30px;
+}
+
+.main-heading {
+  color: #690cb0;
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.para-element {
+  color: #323f4b;
+}
+
+.image-element {
+  height: 70px;
+  width: 70px;
+}
+
+.seconds-num {
+  font-size: 40px;
+  margin-left: 30px;
+  color: #3e4c59;
+}
+
+.seconds-text {
+  color: #3e4c59;
+}
+
+.outer-container {
+  margin-top: 40px;
+  background-color: #f2ebfe;
+  border-radius: 20px;
+  padding: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #f3eaff;
+}
+
+.random-typing-text {
+  font-size: 17px;
+  font-weight: 500;
+
+}
+
+.textarea-element {
+  border-color: #9aa5b1;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.btn-color {
+  background-color: #690cb0;
+  color: #ffffff;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.typed-status-msg {
+  font-size: 20px;
+  color: #3e4c59;
+  margin-top: 30px;
+}
+
+.button {
+  height: 50px;
+  width: 100px;
+  border-radius: 10px;
+  font-weight: bold;
+}
